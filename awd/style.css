@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Bruno Ace SC', cursive;
+}
+.carousel-item img{
+    width: 80%;
+    height: 80vh;
+}
+.fonsty{
+    font-family: 'ABeeZee', sans-serif;
+}
+.btnstyle{
+    font-family: 'Bruno Ace SC', cursive;
+}
+.imgsize{
+    height: 400px;
+}
+.fonsty1{
+    font-family: 'Mogra', cursive;
+}
+.fonsty2{
+    font-family: 'Macondo', cursive;
+}
+.card-body img{
+    min-width:50%;
+    max-height: 200px;
+}
+.image img{
+min-width: 50%;
+max-height: 400px;
+}
+.nao img{
+min-width: 50%;
+max-height: 400px;
+}
